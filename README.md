@@ -14,7 +14,7 @@ recomputes the dashboard's core H1-vs-H2 profitability bridge, and
 asks an AI model to turn those verified numbers into a short,
 plain-English executive briefing — something a manager can read in 15
 seconds without opening Power BI at all.
-<img width="1053" height="596" alt="image" src="https://github.com/user-attachments/assets/4fe8dbf2-dda7-4f7b-ac4b-2ae87c41f571" />
+<img width="1200" height="680" alt="image" src="https://github.com/user-attachments/assets/448337eb-9256-4605-8413-ff676ee74891" />
 <img width="1052" height="586" alt="image" src="https://github.com/user-attachments/assets/c93bd20f-0f12-4aee-b07a-d35239ae6e7b" />
 
 **Example output**, generated from the real dataset:
